@@ -9,7 +9,7 @@ This readme provides an overview of my personal portfolio website, showcasing my
 
 
 ## Live Preview
-- [v1.gabinroy.com](https://gabinroy-v1.web.app)
+[v1.gabinroy.com](https://gabinroy-v1.web.app)
 
 
 ## Features
