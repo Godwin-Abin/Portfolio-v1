@@ -7,6 +7,11 @@ My First personal portfolio Webpage
 ## Overview
 This readme provides an overview of my personal portfolio website, showcasing my work, skills, and experience. The purpose of this website is to present a professional online presence and demonstrate my capabilities to potential clients, employers, and collaborators.
 
+
+## Live Preview
+- [v1.gabinroy.com](https://gabinroy-v1.web.app)
+
+
 ## Features
 1. **Home Page**: The landing page introduces myself, provides a brief summary of my background, and highlights my key skills and expertise.
 2. **About**: This section showcases my best work, including projects, case studies, and any relevant achievements. Each portfolio item includes a description, images, and links to view more details or visit the live project.
